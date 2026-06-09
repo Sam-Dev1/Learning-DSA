@@ -1,3 +1,4 @@
+//Find the maximum & minimum number in an array of integers.
 package arrays;
 
 import java.util.*;
