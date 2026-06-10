@@ -1,5 +1,5 @@
 //print number from 5 to 1 using recursion
-package recursion;
+package Recursion;
 
 public class recursionQ1 {
     public static void main(String[] args) {

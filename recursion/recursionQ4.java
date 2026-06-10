@@ -1,6 +1,6 @@
 //Factorial of a number n 
 
-package recursion;
+package Recursion;
 import java.util.*;
 
 public class recursionQ4 {

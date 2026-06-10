@@ -1,6 +1,6 @@
 //fibonacci series of nth term 
 
-package recursion;
+package Recursion;
 import java.util.*;
 
 public class recursionQ5 {
