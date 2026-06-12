@@ -6,7 +6,7 @@ public class Permutations {
         int n=sc.nextInt();
         buildArray(n);
     }
-    public int[] buildArray(int nums) {
+    public static int[] buildArray(int nums) {
         int n = nums.length;
         int[] ans = new int[n];
         for (int i = 0; i < n; ++i) {

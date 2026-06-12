@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Year {
     public static void main(String[] args){
-        Scanner obj = new Scanner(System.in);
-        int year = obj.nextInt();
+        Scanner src = new Scanner(System.in);
+        int year = src.nextInt();
         if (year % 4 == 0) {
             System.out.println("leap year");
         } else {
